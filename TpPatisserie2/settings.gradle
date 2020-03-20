@@ -1,0 +1,2 @@
+rootProject.name='TpPatisserie'
+include ':app'
